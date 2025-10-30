@@ -1,0 +1,21 @@
+{
+    "usuario": {
+        "nome": "Novo Usu\u00e1rio",
+        "email": "email@dominio.com",
+        "permissao": "comum"
+    },
+    "compromissos": [
+        {
+            "data": "30032008",
+            "descricao": "jdjd",
+            "tipo": "evento",
+            "status": "pendente"
+        },
+        {
+            "data": "15102025",
+            "descricao": "aula",
+            "tipo": "tarefa",
+            "status": "pendente"
+        }
+    ]
+}
